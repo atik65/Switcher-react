@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Switcher-react/static/css/main.190e6c55.chunk.css",
+    "main.js": "/Switcher-react/static/js/main.72479f12.chunk.js",
+    "main.js.map": "/Switcher-react/static/js/main.72479f12.chunk.js.map",
+    "runtime-main.js": "/Switcher-react/static/js/runtime-main.367cbe7e.js",
+    "runtime-main.js.map": "/Switcher-react/static/js/runtime-main.367cbe7e.js.map",
+    "static/js/2.3ec799d2.chunk.js": "/Switcher-react/static/js/2.3ec799d2.chunk.js",
+    "static/js/2.3ec799d2.chunk.js.map": "/Switcher-react/static/js/2.3ec799d2.chunk.js.map",
+    "static/js/3.7c9f860a.chunk.js": "/Switcher-react/static/js/3.7c9f860a.chunk.js",
+    "static/js/3.7c9f860a.chunk.js.map": "/Switcher-react/static/js/3.7c9f860a.chunk.js.map",
+    "index.html": "/Switcher-react/index.html",
+    "static/css/main.190e6c55.chunk.css.map": "/Switcher-react/static/css/main.190e6c55.chunk.css.map",
+    "static/js/2.3ec799d2.chunk.js.LICENSE.txt": "/Switcher-react/static/js/2.3ec799d2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Switcher-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367cbe7e.js",
+    "static/js/2.3ec799d2.chunk.js",
+    "static/css/main.190e6c55.chunk.css",
+    "static/js/main.72479f12.chunk.js"
+  ]
+}
